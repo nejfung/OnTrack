@@ -1,0 +1,15 @@
+{
+    "name": "OnTrack",
+    "description": "Keeps track of your screen time!",
+    "version": "0.00",
+    "manifest_version": 3,
+
+    "background": {
+        "service_worker": "background.js"
+        
+    },
+    "permissions": ["storage", "activeTab", "scripting", "tabs", "alarms"],
+    "action": {
+    "default_popup": "popup.html"
+    }
+  }
