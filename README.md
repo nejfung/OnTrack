@@ -1,4 +1,2 @@
-# OnTrack
-A screen time tracker
-
+# OnTrack - a creen time tracker
 A chrome extension to keep track of how long the user spends on different websites
